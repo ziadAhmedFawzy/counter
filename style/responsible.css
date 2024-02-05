@@ -1,0 +1,26 @@
+@media screen and (max-width: 555px) {
+    div {
+        bottom: 32%;
+    }
+    
+    div h1 {
+        font-size: 50px;
+    }
+    h1 {
+        font-size: 100px;
+    }
+}
+
+@media screen and (max-width: 355px) {
+    div {
+        bottom: 32%;
+    }
+
+    h1 {
+        font-size: 70px;
+    }
+    
+    div h1 {
+        font-size: 30px;
+    }
+}
